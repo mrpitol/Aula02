@@ -16,7 +16,7 @@ public class DesvioSimples {
 		
 		if(idade>=12) {
 			System.out.println("Você pode jogar");
-		}
+			}
 		leitor.close();
 		
 	}
